@@ -1,18 +1,51 @@
-## Getting Started
+# 🚀 Space Invaders 🚀
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A retro-style **Space Invaders** game clone developed in **Java** using **Swing** and **AWT**.  
+Control the ship, shoot aliens, and survive with limited bullets.  
+Fun and simple mechanics – with automatic wave generation and difficulty increase!
+I built this game seeing a youtube video to learn how to build a game using java and swing.I modified many of its feature like limited bullet number added restart button and i will try more feature infuture.
+---
 
-## Folder Structure
+## 🎮 Features
 
-The workspace contains two folders by default, where:
+- 🚀 Player-controlled spaceship with smooth left/right movement
+- 👽 Multiple types of aliens with random colors
+- 💥 Collision detection between bullets and aliens
+- 📈 Scoring system with wave progression
+- 🔫 Limited bullets to increase challenge
+- 🔁 Auto-restart after game over or bullet exhaustion
+- 🖼️ Clean 2D rendering using `Graphics`
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+![Gameplay Screenshot](assets/screenshot1.png)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🧑‍💻 Tech Stack
 
-## Dependency Management
+- **Language**: Java
+- **Libraries**: Java Swing, AWT
+- **IDE**: VS Code / IntelliJ / Eclipse
+- **Graphics**: PNG assets (ship + aliens)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 📂 Project Structure
+
+
+---
+
+## 🛠️ How to Run
+
+### ✅ Prerequisites
+
+- Java JDK 8 or higher installed
+- Java-compatible IDE or terminal
+
+### ▶️ Run Instructions
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/SpaceInvaders.git
+   cd SpaceInvaders
+
