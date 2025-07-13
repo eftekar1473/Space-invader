@@ -18,7 +18,7 @@ I built this game seeing a youtube video to learn how to build a game using java
 
 ---
 
-![Gameplay Screenshot](assets/screenshot1.png)
+![Gameplay Screenshot](assets/Screenshot1.png)
 
 ## 🧑‍💻 Tech Stack
 
@@ -26,11 +26,6 @@ I built this game seeing a youtube video to learn how to build a game using java
 - **Libraries**: Java Swing, AWT
 - **IDE**: VS Code / IntelliJ / Eclipse
 - **Graphics**: PNG assets (ship + aliens)
-
----
-
-## 📂 Project Structure
-
 
 ---
 
@@ -46,6 +41,6 @@ I built this game seeing a youtube video to learn how to build a game using java
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/SpaceInvaders.git
+   git clone https://github.com/eftekar1473/SpaceInvaders.git
    cd SpaceInvaders
 
